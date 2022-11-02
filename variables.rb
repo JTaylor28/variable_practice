@@ -6,4 +6,6 @@ last_name = "Taylor"
 age = 28
 month = 11
 year = 2022
-
+# Float variables
+account_balance = 11,100.00
+available_balance = 11,00.00
