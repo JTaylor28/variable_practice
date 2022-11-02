@@ -7,8 +7,8 @@ age = 28
 month = 11
 year = 2022
 # Float variables
-account_balance = 11,100.00
-available_balance = 11,00.00
+account_balance = 11100.00
+available_balance = 11000.00
 # Blooleans variables 
 code_is_fun = true
 code_is_easy = false
