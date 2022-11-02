@@ -9,3 +9,6 @@ year = 2022
 # Float variables
 account_balance = 11,100.00
 available_balance = 11,00.00
+# Blooleans variables 
+code_is_fun = false
+code_is_easy = true
